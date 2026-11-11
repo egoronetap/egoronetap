@@ -31,7 +31,6 @@
 - **Сети:** TCP/IP, DNS
 - **Языки и скрипты:** Python, PowerShell
 - **Форматы данных:** XML, JSON
-- **API:** REST API
 
 ## 🎯 Сейчас изучаю
 
