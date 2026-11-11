@@ -1,45 +1,43 @@
 
-# Hi, I'm Egor 👋
+# Привет! Я Егор 👋
 
-### Aspiring SOC Analyst | Blue Team | Information Security
+### Начинающий SOC-аналитик | Blue Team | Информационная безопасность
 
-I'm a Computer Security student at RTU MIREA, interested in Security Operations, threat detection, and incident analysis.
+Я студент РТУ МИРЭА, обучаюсь по направлению «Компьютерная безопасность».
 
-Currently, I'm developing practical skills in SIEM, Windows event monitoring, and security log analysis.
+Интересуюсь мониторингом событий безопасности, обнаружением угроз и расследованием инцидентов. Развиваю практические навыки в области SOC и Blue Team.
 
-## 🔐 Cybersecurity Projects
+## 🔐 Проекты по информационной безопасности
 
 ### Wazuh SOC Home Lab
 
-A hands-on home lab focused on security monitoring and detection.
+Практическая лабораторная среда для изучения мониторинга и обнаружения событий безопасности.
 
-- Deployed Wazuh SIEM in a virtual lab environment
-- Connected and monitored a Windows endpoint
-- Configured Windows Security Event collection
-- Implemented File Integrity Monitoring (FIM)
-- Integrated Sysmon with Wazuh
-- Created and tested a custom detection rule for Notepad process creation
+- Развернул Wazuh SIEM в виртуальной лаборатории.
+- Подключил Windows-агент для сбора событий безопасности.
+- Настроил мониторинг целостности файлов (FIM).
+- Интегрировал Sysmon с Wazuh.
+- Создал пользовательское правило обнаружения запуска Notepad.
+- Проверил работу правила и проанализировал полученные события.
 
-➡️ [View Cybersecurity Portfolio](https://github.com/egoronetap/cybersecurity_portfolio)
+📁 [Моё портфолио по информационной безопасности](https://github.com/egoronetap/cubersecurity_portfolio)
 
-## 🛠️ Technical Skills
+## 🛠 Технические навыки
 
 - **SIEM:** Wazuh
-- **Endpoint Monitoring:** Sysmon, Windows Event Logs
-- **Operating Systems:** Windows, Linux
-- **Security Monitoring:** FIM, log analysis, detection rules
-- **Networking:** TCP/IP, DNS
-- **Scripting:** Python, PowerShell
-- **Data Formats:** XML, JSON
-- **APIs:** REST API
+- **Мониторинг Windows:** Sysmon, Windows Event Logs
+- **Операционные системы:** Windows, Linux
+- **Информационная безопасность:** FIM, анализ логов, правила обнаружения
+- **Сети:** TCP/IP, DNS
+- **Языки и скрипты:** Python, PowerShell
+- **Форматы данных:** XML, JSON
+- **API:** REST API
 
-## 🎯 Current Focus
+## 🎯 Сейчас изучаю
 
-- Developing SOC and Blue Team skills
-- Practicing security event analysis
-- Learning incident investigation techniques
-- Improving Python and Linux skills
+- Анализ событий безопасности Windows.
+- Методы обнаружения угроз.
+- Расследование инцидентов информационной безопасности.
+- Инструменты и практики Blue Team.
+- Linux и Python для задач информационной безопасности.
 
-## 📫 Contact
-
-GitHub: https://github.com/egoronetap
